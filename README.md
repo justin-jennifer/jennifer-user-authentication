@@ -77,7 +77,7 @@ The actual URL of user authentication and redirect URL is as follows. To remove 
 https://support.jennifersoft.com:7979/userdefine/dashboard?key=ffca2b8b-4b35-4688-8282-c236e0d30b3c&layout=iframe
 ```
 
-## Utilizing XView transaction analysis popup
+## The use of XView transaction analysis popup
 
 When linking JENNIFER with other solutions, the most used screen is the XView transaction analysis popup. A user open the XView transaction analysis popup through the URL querystring as follows.
 
